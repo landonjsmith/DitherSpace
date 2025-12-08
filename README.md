@@ -3,7 +3,7 @@
 **DitherSpace** is an open-source clone of the original cyberspace.online dither algorithm.  
 It provides real-time, GPU-accelerated dithering using an 8×8 Bayer matrix, grayscale quantization, adjustable pixelation, and customizable color mapping.
 
-##Features
+#Features
 
 ### Image Loading
 - Upload any local image (`.png`, `.jpg`, etc.)
